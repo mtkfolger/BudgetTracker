@@ -1,8 +1,13 @@
 **Budget Tracker**
 ---
-
 **Description**
 >This allows application online and offline access for users to ad expenses and deposits to their budget, regardless of connection status. When entering their transactions offline, they will be able to populate their new total, reflecting all offline changes made, as soon as they come back online. 
+
+**Screenshots**
+>![Budget App 1](https://user-images.githubusercontent.com/84151997/137979486-cef94aa9-311f-41ef-b2a3-ab660d614cdc.JPG)
+
+**Link to Deployed Application**
+><a href="https://folgerbudgettracker.herokuapp.com/">Click here</a> to see the deployed Budget Tracking Application
 
 **Table of Contents** 
 >[Installation](#Installation)
