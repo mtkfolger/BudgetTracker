@@ -1,3 +1,8 @@
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker
+  .register("service_worker.js")
+  .then(() => console.log("Registered service worker!"));
+}
 let transactions = [];
 let myChart;
 

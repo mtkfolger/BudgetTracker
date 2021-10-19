@@ -1,6 +1,7 @@
 const indexedDB =
   window.indexedDB ||
-  window.mozIndexedDB
+  window.mozIndexedDB;
+  
 let db;
 //request is the object that will hold our db (object)
 const request = indexedDB.open("budget", 1);
